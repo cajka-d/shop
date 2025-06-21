@@ -1,0 +1,23 @@
+.Input {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.Input:last-child {
+    margin-bottom: 0;
+}
+.Input input[type=text],
+.Input input[type=password] {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    max-width: 260px;
+    padding: 12px 15px;
+    width: 100%;
+}
+.Input button {
+    background-color: #78dede;
+    border: 0;
+    cursor: pointer;
+    max-width: 260px;
+    padding: 14px 15px;
+    width: 100%;
+}

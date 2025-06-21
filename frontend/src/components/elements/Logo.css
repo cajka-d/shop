@@ -1,0 +1,14 @@
+.Logo {
+	overflow: hidden;
+	text-align: left;
+}
+.Logo img {
+	float: left;
+	margin-right: 10px;
+	max-width: 70px;
+	width: 100%;
+}
+.Logo .Description {
+	overflow: hidden;
+	padding-top: 10px;
+}

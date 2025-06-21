@@ -1,0 +1,19 @@
+.Product {
+    border: 5px solid #b3f4eb;
+    margin-bottom: 35px;
+    min-height: 100px;
+    padding: 20px 3%;
+    width: 23%;
+}
+.Product img {
+    width: 100%;
+}
+.Product .Price {
+    margin: 15px 0;
+}
+.Product .Button {
+    background-color: #78dede;
+    cursor: pointer;
+    display: inline-block;
+    padding: 7px 15px;
+}

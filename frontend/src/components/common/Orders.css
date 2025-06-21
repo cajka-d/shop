@@ -1,0 +1,24 @@
+.list-orders {
+    margin: auto;
+    max-width: 850px;
+    width: 100%;
+}
+.title,
+.Order {
+    border: 1px solid #ccc;
+    display: flex;
+    margin-bottom: 15px;
+    padding: 15px 2%;
+}
+.title .item,
+.Order .item {
+    text-align: left;
+    width: 50%;
+}
+.title .item:last-child,
+.Order .item:last-child {
+    text-align: right;
+}
+.title .item {
+    font-weight: 700;
+}

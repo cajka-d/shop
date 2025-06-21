@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+    outline: none;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+html, body,div, p {
+	margin: 0;
+	padding: 0;
+	width: auto;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.button-order {
+	background-color: #78dede;
+	cursor: pointer;
+	display: inline-block;
+	margin-top: 20px;
+	padding: 15px 15px;
+	width: 100%;
+}
+.no-entity {
+	background-color: #c1ebff;
+	padding: 20px 10px;
+  text-align: center;
+}
+.reg-buy {
+	background-color: #c1ebff;
+  font-size: 14px;
+  padding: 5px 10px;
+}
