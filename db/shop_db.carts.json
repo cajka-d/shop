@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6856d455a3abb3b569b06d5b"
+  },
+  "login": "cajka",
+  "productId": "6782533aadde06a22aa513ac",
+  "productCount": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6856d45ba3abb3b569b06d5e"
+  },
+  "login": "cajka",
+  "productId": "6782541eadde06a22aa513b2",
+  "productCount": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6856d45ea3abb3b569b06d61"
+  },
+  "login": "cajka",
+  "productId": "6782544cadde06a22aa513b4",
+  "productCount": 1,
+  "__v": 0
+}]

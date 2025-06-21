@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "67825262adde06a22aa513a8"
+  },
+  "title": "Конфеты Маска",
+  "price": 578,
+  "__v": 0,
+  "imageNane": "product-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "678252d8adde06a22aa513aa"
+  },
+  "title": "Конфеты Цитрон",
+  "price": 625,
+  "__v": 0,
+  "imageNane": "product-2.jpg"
+},
+{
+  "_id": {
+    "$oid": "6782533aadde06a22aa513ac"
+  },
+  "title": "Конфеты Ромашки",
+  "price": 360,
+  "__v": 0,
+  "imageNane": "product-3.jpg"
+},
+{
+  "_id": {
+    "$oid": "67825396adde06a22aa513ae"
+  },
+  "title": "Трюфели Победа вкуса",
+  "price": 750,
+  "__v": 0,
+  "imageNane": "product-4.jpg"
+},
+{
+  "_id": {
+    "$oid": "678253ddadde06a22aa513b0"
+  },
+  "title": "Конфеты Konti Княжеские",
+  "price": 540,
+  "__v": 0,
+  "imageNane": "product-5.jpg"
+},
+{
+  "_id": {
+    "$oid": "6782541eadde06a22aa513b2"
+  },
+  "title": "Конфеты Космическая одиссея",
+  "price": 780,
+  "__v": 0,
+  "imageNane": "product-6.jpg"
+},
+{
+  "_id": {
+    "$oid": "6782544cadde06a22aa513b4"
+  },
+  "title": "Конфеты Столичные",
+  "price": 1240,
+  "__v": 0,
+  "imageNane": "product-7.jpg"
+},
+{
+  "_id": {
+    "$oid": "67828f191c6cd8282d28d520"
+  },
+  "title": "Конфеты Новосибирск Экстра",
+  "price": 990,
+  "imageNane": "product-8.jpg",
+  "__v": 0
+}]

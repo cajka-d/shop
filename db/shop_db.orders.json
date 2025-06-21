@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6856c7d2e42f036e48fc0d16"
+  },
+  "login": "cajka",
+  "productIds": [
+    "product_67825262adde06a22aa513a8",
+    "product_678252d8adde06a22aa513aa"
+  ],
+  "totalPrice": 1203,
+  "createdAt": {
+    "$date": "2025-06-21T14:55:14.956Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6856d2449084ee752a390569"
+  },
+  "login": "cajka",
+  "productIds": [
+    "product_67825262adde06a22aa513a8",
+    "product_678252d8adde06a22aa513aa",
+    "product_6782533aadde06a22aa513ac"
+  ],
+  "totalPrice": 1563,
+  "createdAt": {
+    "$date": "2025-06-21T15:39:48.626Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+}]
